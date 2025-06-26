@@ -1,2 +1,1 @@
- pr
-printf(kafam karıştı githubu öğrenirken);
+şimdi 3.güncellememi yapacağım 
